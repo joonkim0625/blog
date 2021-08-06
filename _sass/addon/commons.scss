@@ -805,7 +805,8 @@ $sidebar-display: "sidebar-display";
     }
 
     .icon-border {
-      background-color: #525354;
+      // I am not sure why this border needs a background color
+      // background-color: #525354;
       content: "";
       width: 3px;
       height: 3px;
